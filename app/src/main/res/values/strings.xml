@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Kartu Nama</string>
+    <string name="info_text_1">+11 (123) 444 555 666</string>
+    <string name="info_text_2">\@socialmediahandle</string>
+    <string name="info_text_3">email@dotmail.com</string>
+    <string name="logo_text_1">Jeniffer Doe</string>
+    <string name="logo_text_2">Android Developer Extraordinaire</string>
+</resources>
